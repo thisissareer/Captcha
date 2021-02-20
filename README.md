@@ -2,4 +2,4 @@
 
 #Captcha By Sareer
 
-#Explained Video [Click Here](https://github.com/pandao/editor.md "Heading link")
+#Explained Video [Click Here](https://youtu.be/lICehy5zS6c)
